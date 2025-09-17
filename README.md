@@ -18,12 +18,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=JvAlmeidaQ&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JvAlmeidaQ&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-queiroz/)  
 - 📧 Email: joaovitoraq2006@email.com
