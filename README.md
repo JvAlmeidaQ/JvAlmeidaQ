@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo João Vitor Almeida Queiroz
 
-🎓 Estudante de **Ciência da Computação** na UFJF (2º período)  
+🎓 Estudante de **Ciência da Computação** na UFJF (3° período)  
 💻 Focado em **Backend e Dados**  
 🚀 Atualmente reforçando **C++**, aprendendo **Java** para POO, e explorando **Python** para análise de dados.  
 🔍 Buscando oportunidade de estágio para aplicar e evoluir meus conhecimentos.  
