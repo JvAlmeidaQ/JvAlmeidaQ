@@ -19,8 +19,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=JvAlmeidaQ&show_icons=true&theme=tokyonight)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JvAlmeidaQ&layout=compact&theme=tokyonight)
 
 ---
 
